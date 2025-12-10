@@ -1,4 +1,4 @@
-# Lutthor-Horror
+# Lutthor Horrør
  Um jogo de terror psicológico onde sua voz pode ser sua sentença. Desenvolvido por um aluno do Instituto Federal do Rio de Janeiro, Lutthør Horror te joga na atmosfera macabra de um necrotério (IML) em uma cidade japonesa notória por suas lendas urbanas assustadoras, como Samara, Kuchisake e a lenda da Hitobashira. Todos sabem que há algo de errado com a cidade, mas ninguém jamais conseguiu provar ou desejam provar isso...
 
 # Protagonista Jax
