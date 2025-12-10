@@ -28,9 +28,10 @@
 - Invasão: Antes de um Espectro invadir o IML, as luzes do teto e da lanterna piscarão repetidamente como um aviso
 - A Caçada: Uma vez dentro, o Espectro usará o som do microfone (Voice Chat), os batimentos cardíacos do Jax e a respiração descontrolada do jogador para caçar e aumentar a barra de medo
 - Desistência: Se um Espectro não detectar ninguém por cerca de 45 segundos, ele desaparecerá, mas deixará a visão de Jax turva e lenta por 5 segundos
+- Morte: Talvez...?
 
 # Trabalho de legista e o Caderninho do Jax
-- Durante os 15 dias, a principal tarefa é catalogar um corpo por dia, anotando a causa da morte em um caderninho
+- Durante os 3 dias, a principal tarefa é catalogar um corpo por dia, anotando a causa da morte em um caderninho
 - Este caderno terá duas abas para classificar os corpos já analisados: Assassinado (se a morte foi causada por alguém) e Morte Natural (se não houve interferência de terceiros).
 - Embora não afete a história principal, preencher o caderno corretamente afeta a índole pessoal do Jax
 ### Pistas
